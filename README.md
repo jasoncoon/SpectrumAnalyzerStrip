@@ -3,7 +3,7 @@ Spectrum Analyzer RGB LED Strip
 
 Basic spectrum analyzer on an APA102 RGB LED strip using a Teensy 3.1, the FastLED library, and the Teensy Audio Library.
 
-[![video](http://img.youtube.com/vi/wzONOH8xmi4/0.jpg)](http://www.youtube.com/watch?v=wzONOH8xmi4)  
+[![video](http://img.youtube.com/vi/YQbqccvnx4E/0.jpg)](http://www.youtube.com/watch?v=YQbqccvnx4E)  
 
 Based on SpectrumAnalyzerBasic by Paul Stoffregen: https://github.com/PaulStoffregen/Audio/blob/master/examples/Analysis/SpectrumAnalyzerBasic/SpectrumAnalyzerBasic.ino
 
